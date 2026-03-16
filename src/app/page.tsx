@@ -55,7 +55,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/front-view-plus-size-man-working-as-hairstylist_23-2150754701.jpg",              imageAlt: "Expert barber styling"
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/faceless-barber-shaving-hair-man_23-2147778746.jpg",              imageAlt: "Professional haircut service"
+              imageSrc: "http://img.b2bpic.net/free-photo/faceless-barber-shaving-hair-man_23-2147778746.jpg?_wi=1",              imageAlt: "Professional haircut service"
             }
           ]}
           autoplayDelay={4000}
@@ -105,7 +105,7 @@ export default function LandingPage() {
               id: "styling",              title: "Hair Styling & Finishing",              content: "Complete styling services including product application, texture work, and finish treatments. We ensure your hair looks impeccable for any occasion, from everyday wear to special events."
             }
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/faceless-barber-shaving-hair-man_23-2147778746.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/faceless-barber-shaving-hair-man_23-2147778746.jpg?_wi=2"
           imageAlt="Professional barbershop service"
           mediaAnimation="slide-up"
           useInvertedBackground={false}
